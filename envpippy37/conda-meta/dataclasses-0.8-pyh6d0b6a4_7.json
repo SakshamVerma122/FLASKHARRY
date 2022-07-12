@@ -1,0 +1,37 @@
+{
+  "build": "pyh6d0b6a4_7",
+  "build_number": 7,
+  "channel": "https://conda.anaconda.org/anaconda/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\saksh\\anaconda3\\pkgs\\dataclasses-0.8-pyh6d0b6a4_7",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "dataclasses-0.8-pyh6d0b6a4_7.tar.bz2",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\saksh\\anaconda3\\pkgs\\dataclasses-0.8-pyh6d0b6a4_7",
+    "type": 1
+  },
+  "md5": "c8c177c84b3e5e6145156045660868e9",
+  "name": "dataclasses",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\saksh\\anaconda3\\pkgs\\dataclasses-0.8-pyh6d0b6a4_7.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6816dd018c61bc12a29b575318c53d454544d01f15c05d0d2489de72755281c9",
+  "size": 7367,
+  "subdir": "noarch",
+  "timestamp": 1614362671677,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/anaconda/noarch/dataclasses-0.8-pyh6d0b6a4_7.tar.bz2",
+  "version": "0.8"
+}

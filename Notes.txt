@@ -1,0 +1,6 @@
+STATIC FOLDER
+can't do (/static only) as to debard user from knowing what're there in the static folder --> Don't want to let user names and types of files that are there in static folder
+/static/filename --> this is possible --> might could treat it as a single web page
+
+TEMPLATES
+This is to store TEMPLATES

@@ -1,0 +1,36 @@
+==> 2022-07-10 21:35:02 <==
+# cmd: C:\Users\saksh\anaconda3\Scripts\conda-script.py create --prefix envpippy37 python=3.7
+# conda version: 4.13.0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/win-64::ca-certificates-2022.4.26-haa95532_0
++defaults/win-64::certifi-2022.6.15-py37haa95532_0
++defaults/win-64::openssl-1.1.1p-h2bbff1b_0
++defaults/win-64::pip-21.2.4-py37haa95532_0
++defaults/win-64::python-3.7.13-h6244533_0
++defaults/win-64::setuptools-61.2.0-py37haa95532_0
++defaults/win-64::sqlite-3.38.5-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::wincertstore-0.2-py37haa95532_2
+# update specs: ['python=3.7']
+==> 2022-07-10 21:37:31 <==
+# cmd: C:\Users\saksh\anaconda3\Scripts\conda-script.py install -c anaconda flask
+# conda version: 4.13.0
+-defaults/win-64::ca-certificates-2022.4.26-haa95532_0
+-defaults/win-64::certifi-2022.6.15-py37haa95532_0
+-defaults/win-64::openssl-1.1.1p-h2bbff1b_0
++anaconda/noarch::colorama-0.4.4-pyhd3eb1b0_0
++anaconda/noarch::dataclasses-0.8-pyh6d0b6a4_7
++anaconda/noarch::flask-2.0.3-pyhd3eb1b0_0
++anaconda/noarch::itsdangerous-2.0.1-pyhd3eb1b0_0
++anaconda/noarch::jinja2-3.0.3-pyhd3eb1b0_0
++anaconda/noarch::typing_extensions-4.1.1-pyh06a4308_0
++anaconda/noarch::werkzeug-2.0.3-pyhd3eb1b0_0
++anaconda/win-64::ca-certificates-2022.4.26-haa95532_0
++anaconda/win-64::certifi-2022.6.15-py37haa95532_0
++anaconda/win-64::click-8.0.4-py37haa95532_0
++anaconda/win-64::importlib-metadata-4.11.3-py37haa95532_0
++anaconda/win-64::markupsafe-2.1.1-py37h2bbff1b_0
++anaconda/win-64::openssl-1.1.1o-h2bbff1b_0
++anaconda/win-64::zipp-3.8.0-py37haa95532_0
+# update specs: ['flask']
